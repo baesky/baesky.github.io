@@ -4,9 +4,6 @@ layout: post
 
 title:  "Welcome to my blog!"
 
-author: ferdin
-
-tags: []
 ---
 
 # Welcome
