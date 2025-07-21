@@ -6,5 +6,7 @@ permalink: /about/
 
 # About Me
 
-go go go!
+A game developer, and a player.
+
+![pic](img/about.jpg)
 
