@@ -10,3 +10,13 @@ minima:
   skin: dark
   nav_pages:
     - about.md
+  social_links:
+    - title: My repository at GitHub
+      icon: github
+      url: "https://github.com/baesky"
+    - title: Me at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/FengL18"
+    - title: zhihu
+      icon: zhihu
+      url: https://www.zhihu.com/column/GrfxIO
