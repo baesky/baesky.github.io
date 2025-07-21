@@ -4,6 +4,8 @@ layout: post
 
 title:  "Welcome to my blog!"
 
+author: bae
+
 tags: []
 ---
 
